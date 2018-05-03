@@ -7,6 +7,11 @@
       "paths": ["*", "/"]
     }
     ]
+  },
+  "activitycontinuation": {
+    "apps": [
+      "JZ7GQUNY85.com.ericjasonbrown.Audiobooks"
+    ]
   }
 }
 
