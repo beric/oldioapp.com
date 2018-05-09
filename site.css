@@ -1,0 +1,19 @@
+.coverart {
+  margin: 50 auto;
+  width: 300px;
+  -webkit-box-shadow:0px 12px 40px 0px rgba(119, 104,74,1);
+  -moz-box-shadow: 0px 12px 40px 0px rgba(119, 104,74,1);
+  box-shadow: 0px 12px 40px 0px rgba(119, 104,74,1);
+}
+body {
+  margin:50px auto;
+  max-width:720px;
+  line-height:1.6;
+  font-size:21px;
+  font-family:GillSans,sans-serif;
+  color:#393123;
+  background: #F7F0E3;
+}
+h1,h2,h3{line-height:1.2;font-family:GillSans,sans-serif;}
+a{color:#A86C1B;text-decoration:none;}
+a:hover{text-decoration:underline;}
